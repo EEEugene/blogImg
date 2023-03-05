@@ -1,12 +1,12 @@
  <center>
-     <h1>宋</h1>
+     <h1>宋先生</h1>
  </center>
 
 
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：23
-* 手 机：有意者请私信联系                    邮 箱：eugene10@139.com
+* 手 机：（防骚扰，请先发邮件）                    邮 箱：eugene10@139.com
 * 专 业：计算机科学与技术 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：C++开发工程师
 
 ## 工作及教育经历
