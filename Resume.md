@@ -6,13 +6,13 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：23
-* 手 机：（防骚扰，请先发邮件）                    邮 箱：eugene10@139.com
+* 手 机：（防骚扰，请先发邮件）      &emsp;&emsp;                   邮 箱：eugene10@139.com
 * 专 业：计算机科学与技术 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：C++开发工程师
 
 ## 工作及教育经历
 
 * 深圳市合众智科技有限公司 &emsp;&ensp;2019.6~2019.9&emsp;&emsp;&emsp;&emsp;&emsp; 研发部-软件测试工程师       暑期实习
-* 湛江科技学院&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~2023.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科        
+* 湛江科技学院&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~2023.7&emsp;&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科        
 
 ## 专业技能
 
