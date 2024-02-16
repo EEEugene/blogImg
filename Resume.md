@@ -42,6 +42,6 @@
 
 ## 个人账号 
 * https://blog.csdn.net/EEEugene (记录代码日常，目前46篇文章，持续产出)
-* https://github.com/EEEugene (一些自己的开源项目，目前最好的一个项目有65颗star)
+* https://github.com/EEEugene (一些自己的开源项目，目前项目共计150+ stars)
 * https://leetcode-cn.com/u/eeeugene/ （日常算法刷题）
 
